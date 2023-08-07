@@ -1,0 +1,24 @@
+.home-container{
+    width: 100%;
+}
+
+.home-header{
+    width: 90%;
+    max-width: 1110px;
+    margin: 1em auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5em;
+}
+
+.instructor-button{
+    width: fit-content;
+    margin: 0 auto;
+}
+
+.home-button-container{
+    display: flex;
+    gap: 1em;
+    justify-content: center;
+}

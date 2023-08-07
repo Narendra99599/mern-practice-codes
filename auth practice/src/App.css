@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+.form-container{
+  width: 60%;
+  margin: 0 auto;
+}
+
+.form-container input{
+  width: 100%;
+  padding: 1em;
+}
+
+.form-element{
+  margin-top: 1em;
+}
+
+.current-tab{
+  background-color: black;
+  color: white;
+}
+
+.spinner{
+  width: 100vw;
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
